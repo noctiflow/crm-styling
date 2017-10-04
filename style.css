@@ -3763,13 +3763,10 @@ div.p_login #loginform #bigbutton:hover {
   }
 
   div.p_login .p_login_top a {
-    width               : 170px;
-    height              : 30px;
-    background-image    : none,
-                          url("../../../../themes/SuiteP/images/p_login_logo.svg"),
-                          url("../../../../themes/SuiteP/images/p_login_logo.png");
-    background-position : 0 -70px;
-  }
+     background-image    : none,
+                           url("../../../../themes/SuiteP/images/p_login_logo.png");
+     background-size:40px 40px;
+   }
 
   div.p_login .p_login_bottom {
     padding     : 10px 3% 10px 3%;
