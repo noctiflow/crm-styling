@@ -829,7 +829,7 @@ footer.collapsedSidebar {
   overflow-y              : auto;
   border-top-left-radius  : 0;
   border-top-right-radius : 0;
-  background              : #5d5670;
+  background              : black;
   font-size               : 10px;
 }
 
@@ -843,8 +843,8 @@ footer.collapsedSidebar {
   margin           : 0;
   padding          : 12px 15px 12px 15px;
   color            : #fff;
-  border-bottom    : 1px solid #757083;
-  background-color : #5d5670;
+  border-bottom    : 1px solid palegoldenrod;
+  background-color : black;
   text-decoration  : none;
   text-transform   : none;
   font-size        : 14px;
@@ -853,7 +853,7 @@ footer.collapsedSidebar {
 
 .navbar-inverse .dropdown-menu li a:hover {
   color              : black;
-  background         : #5d5670;
+  background         : LightSkyBlue;
   -moz-transition    : all 0.3s ease-out;
   -o-transition      : all 0.3s ease-out;
   -webkit-transition : all 0.3s ease-out;
@@ -909,7 +909,7 @@ footer.collapsedSidebar {
 
 .navbar-inverse .nav > .topnav > span.notCurrentTab > a:hover {
   border-top       : 3px solid black;
-  background-color : #5d5670;
+  background-color : Lightskyblue;
 }
 
 .navbar-inverse .nav > .topnav > span.currentTab > a {
@@ -947,7 +947,7 @@ footer.collapsedSidebar {
 
 .navbar-inverse .nav > .topnav.with-actions > span.notCurrentTab > a:hover {
   border-top       : 3px solid black;
-  background-color : #5d5670;
+  background-color : Lightskyblue;
 }
 
 .navbar-inverse .nav > .topnav.with-actions > span.currentTab > a {
@@ -1279,7 +1279,7 @@ footer.collapsedSidebar {
 
 .topnav:hover {
   color            : black;
-  background-color : #5d5670;
+  background-color : Lightskyblue;
 }
 
 .topnav a:hover {
@@ -1862,7 +1862,7 @@ footer.collapsedSidebar {
 
 .desktop_notifications .has-alerts {
   border-radius    : 2px;
-  background-color : #5d5670;
+  background-color : LightSkyBlue ;
 }
 
 .desktop_notifications .has-alerts .alert-info {
@@ -1901,7 +1901,7 @@ footer.collapsedSidebar {
 .desktop_notifications .has-alerts .alert-header {
   border-top-left-radius  : 2px;
   border-top-right-radius : 2px;
-  background-color        : #5d5670;
+  background-color        : LightSkyBlue;
   font-size               : 14px;
   font-weight             : bold;
   line-height             : 20px;
@@ -1964,7 +1964,7 @@ footer.collapsedSidebar {
   }
 
   .desktop_notifications .has-alerts .alert-header {
-    background-color : #5d5670;
+    background-color : LightSkyBlue;
     line-height      : 20px;
   }
 
@@ -2826,7 +2826,7 @@ footer.collapsedSidebar {
     overflow-y                 : scroll;
     border-bottom-right-radius : 3px;
     border-bottom-left-radius  : 3px;
-    background                 : #5d5670;
+    background                 : LightSkyBlue;
   }
 
   .mobile_menu li {
@@ -24197,7 +24197,7 @@ ul.yui-nav li.selected {
 }
 
 .qtip-default .qtip-titlebar {
-  background-color : #5d5670;
+  background-color : LightSkyBlue;
 }
 
 .qtip-default .qtip-icon {
@@ -24945,7 +24945,7 @@ iframe.teamNoticeBox {
   margin           : 5px;
   color            : #edebf5;
   border-radius    : 4px;
-  background-color : #5d5670;
+  background-color : Lightsteelblue;
   font-size        : 13px;
   line-height      : 26px;
 }
@@ -24985,7 +24985,7 @@ iframe.teamNoticeBox {
 
 .file-attachments .attachment-blank {
   padding          : 4px 8px;
-  background-color : #5d5670;
+  background-color : Lightsteelblue;
   line-height      : 26px;
 }
 
@@ -25052,7 +25052,7 @@ iframe.teamNoticeBox {
   margin           : 5px;
   color            : #edebf5;
   border-radius    : 4px;
-  background-color : #5d5670;
+  background-color : Lightsteelblue;
   font-size        : 13px;
   line-height      : 26px;
 }
@@ -25092,7 +25092,7 @@ iframe.teamNoticeBox {
 
 .document-attachments .attachment-blank {
   padding          : 4px 8px;
-  background-color : #5d5670;
+  background-color : Lightsteelblue;
   line-height      : 26px;
 }
 
@@ -25982,7 +25982,7 @@ iframe.teamNoticeBox {
   display         : inline-block;
   margin          : 0;
   padding         : 0;
-  color           : #5d5670;
+  color           : Lightskyblue;
   text-align      : center;
   text-decoration : none;
   vertical-align  : top;
