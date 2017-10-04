@@ -3610,14 +3610,14 @@ div.p_login .p_login_top {
 
 div.p_login .p_login_top a {
   display             : block;
-  width               : 170px;
-  height              : 40px;
+  width               : 60px;
+  height              : 60px;
   overflow            : hidden;
   background-image    : none,
-                        url("../../../../themes/SuiteP/images/p_login_logo.svg"),
                         url("../../../../themes/SuiteP/images/p_login_logo.png");
   background-repeat   : no-repeat;
   background-position : 0 0;
+  background-size: 60px 60px;
   text-indent         : -9999px;
 }
 
